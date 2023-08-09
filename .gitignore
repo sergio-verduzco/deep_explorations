@@ -1,2 +1,5 @@
-variational/karpathy
-**/.ipynb_checkpoints
+rnn/data/*.xopp
+rnn/data/*.svg
+variational/emited/*
+variational/karpathy/*
+*/.ipynb_checkpoints/*
